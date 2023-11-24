@@ -1,0 +1,18 @@
+h1::after{
+    content: "welcome";
+}
+h1::before{
+    content: "hii,";
+}
+h2::first-letter{
+    color: red;
+}
+h3::first-line{
+    color: blue;
+}
+h4::marker{
+    color: aquamarine;
+}
+h5::selection{
+    color: beige;
+}

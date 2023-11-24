@@ -1,0 +1,13 @@
+/*attribute name*/
+[target]{
+    background: yellow;
+}
+
+/*attribute name&value =*/
+[target="_blank"]{
+background: green;
+}
+/*attribute with char *=  */
+[target*="b"]{
+    background: burlywood;
+}

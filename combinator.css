@@ -1,0 +1,13 @@
+div p{
+    background-color: red;
+}
+
+div>u{
+    background-color: orange;
+}
+div+h3{
+    background-color: yellow;
+}
+div~h2{
+    background-color: brown;
+}
